@@ -3,9 +3,10 @@
 # Performs addition, subtraction, multiplication and division operations on the numeric inputs. 
 # Concatenates the two inputs as strings and prints the result.
 
-Number_1 = 4
-Number_2 = 0
+Number_1 =int(input("Enter Your First Number:-"))
+Number_2 =int(input("Enter Your Second Number:-"))
 print("\r")
+
 print("Arithametic operations");
 print("\r")
 
@@ -33,4 +34,5 @@ print("\r")
 
 print(Number_1 ,"+", Number_2,"=",Concatenates);
 print("\r")
+
 
